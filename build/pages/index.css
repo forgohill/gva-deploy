@@ -1,0 +1,47 @@
+@import '../vendor/normalize.css';
+
+/*              PAGE           */
+@import '../blocks/page/page.css';
+
+/*              HEADER           */
+@import '../blocks/header/header.css';
+@import '../blocks/__logo/header__logo.css';
+@import '../blocks/__navigation/header__navigation.css';
+@import '../blocks/__list/header__list.css';
+@import '../blocks/__item/header__item.css';
+@import '../blocks/__link/header__link.css';
+
+
+/*              MAIN           */
+@import '../blocks/main/main.css';
+
+/*              ADVANTAGE           */
+@import '../blocks/advantage/advantage.css';
+@import '../blocks/advantage/__title/advatage__title.css';
+@import '../blocks/advantage/__list/advantage__list.css';
+@import '../blocks/advantage/__item/advantage__item.css';
+@import '../blocks/advantage/__link/advantage__link.css';
+@import '../blocks/advantage/__number/advantage__number.css';
+@import '../blocks/advantage/__wrapper/advantage__wrapper.css';
+@import '../blocks/advantage/__subtitle/advantage__subtitle.css';
+@import '../blocks/advantage/__title/advatage__title.css';
+
+
+/*              GALLERY           */
+@import '../blocks/gallery/gallery.css';
+@import '../blocks/gallery/__title/gallery__title.css';
+@import '../blocks/gallery/__list/gallery__list.css';
+@import '../blocks/gallery/__item/gallery__item.css';
+@import '../blocks/gallery/__link/gallery__link.css';
+@import '../blocks/gallery/__image/gallery__image.css';
+@import '../blocks/gallery/__subtitle/gallery__subtitle.css';
+@import '../blocks/gallery/__price/gallery__price.css';
+
+
+
+/*              FOOTER           */
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__navigation/footer__navigation.css';
+@import '../blocks/footer/__wrapper/footer__wrapper.css';
+@import '../blocks/footer/__list/footer__list.css';
+@import '../blocks/footer/__item/footer__item.css';
