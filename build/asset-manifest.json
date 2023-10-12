@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ecf60ec.css",
+    "main.js": "/static/js/main.95ceac6f.js",
+    "static/media/muza-аpаrtment.jpg": "/static/media/muza-аpаrtment.2214bda7607ddcf33982.jpg",
+    "static/media/green-apartment-city-view.jpg": "/static/media/green-apartment-city-view.78846a8310a99264b382.jpg",
+    "static/media/pink-drеаm-араrtmеnt.jpg": "/static/media/pink-drеаm-араrtmеnt.690755cf06bdc7e64437.jpg",
+    "static/media/art-роint-араrtmеnt.jpg": "/static/media/art-роint-араrtmеnt.65cf52fd5b25e3070e1e.jpg",
+    "static/media/sky-river-apartment.jpg": "/static/media/sky-river-apartment.e482462a706fe35b4da1.jpg",
+    "static/media/good-vibes-only-apartment.jpg": "/static/media/good-vibes-only-apartment.4cabde4e78206bb6c38c.jpg",
+    "static/media/nаturе-араrtmеnt.jpg": "/static/media/nаturе-араrtmеnt.bde44aad6870cb953f16.jpg",
+    "static/media/central-street-apartment.jpg": "/static/media/central-street-apartment.9759d071716e7388120c.jpg",
+    "static/media/flora-apartment.jpg": "/static/media/flora-apartment.be483a945c29e81cdbe2.jpg",
+    "static/media/marshmallow-studio.jpg": "/static/media/marshmallow-studio.5ab7e4819e561437ce68.jpg",
+    "static/media/liner.jpg": "/static/media/liner.210fb682da3402be9dca.jpg",
+    "static/media/green-point-apartment.jpg": "/static/media/green-point-apartment.f461b401eb7b39be2c1c.jpg",
+    "static/media/happy-moments-apartment.jpg": "/static/media/happy-moments-apartment.81b5907a870c9a4cd9ec.jpg",
+    "index.html": "/index.html",
+    "main.0ecf60ec.css.map": "/static/css/main.0ecf60ec.css.map",
+    "main.95ceac6f.js.map": "/static/js/main.95ceac6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ecf60ec.css",
+    "static/js/main.95ceac6f.js"
+  ]
+}
