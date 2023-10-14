@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ecf60ec.css",
-    "main.js": "/static/js/main.f8bb06bd.js",
+    "main.css": "/static/css/main.f6011fb6.css",
+    "main.js": "/static/js/main.daae1c53.js",
     "static/media/muza-аpаrtment.jpg": "/static/media/muza-аpаrtment.2214bda7607ddcf33982.jpg",
     "static/media/green-apartment-city-view.jpg": "/static/media/green-apartment-city-view.78846a8310a99264b382.jpg",
     "static/media/pink-drеаm-араrtmеnt.jpg": "/static/media/pink-drеаm-араrtmеnt.690755cf06bdc7e64437.jpg",
@@ -16,11 +16,11 @@
     "static/media/green-point-apartment.jpg": "/static/media/green-point-apartment.f461b401eb7b39be2c1c.jpg",
     "static/media/happy-moments-apartment.jpg": "/static/media/happy-moments-apartment.81b5907a870c9a4cd9ec.jpg",
     "index.html": "/index.html",
-    "main.0ecf60ec.css.map": "/static/css/main.0ecf60ec.css.map",
-    "main.f8bb06bd.js.map": "/static/js/main.f8bb06bd.js.map"
+    "main.f6011fb6.css.map": "/static/css/main.f6011fb6.css.map",
+    "main.daae1c53.js.map": "/static/js/main.daae1c53.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ecf60ec.css",
-    "static/js/main.f8bb06bd.js"
+    "static/css/main.f6011fb6.css",
+    "static/js/main.daae1c53.js"
   ]
 }
