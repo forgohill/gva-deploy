@@ -1,26 +1,43 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6011fb6.css",
-    "main.js": "/static/js/main.daae1c53.js",
+    "main.css": "/static/css/main.b5f7510f.css",
+    "main.js": "/static/js/main.ee2559d3.js",
     "static/media/muza-аpаrtment.jpg": "/static/media/muza-аpаrtment.2214bda7607ddcf33982.jpg",
     "static/media/green-apartment-city-view.jpg": "/static/media/green-apartment-city-view.78846a8310a99264b382.jpg",
     "static/media/pink-drеаm-араrtmеnt.jpg": "/static/media/pink-drеаm-араrtmеnt.690755cf06bdc7e64437.jpg",
     "static/media/art-роint-араrtmеnt.jpg": "/static/media/art-роint-араrtmеnt.65cf52fd5b25e3070e1e.jpg",
     "static/media/sky-river-apartment.jpg": "/static/media/sky-river-apartment.e482462a706fe35b4da1.jpg",
+    "static/media/ubuntu-bold.woff": "/static/media/ubuntu-bold.c2dadc0b0f68c60d17c3.woff",
     "static/media/good-vibes-only-apartment.jpg": "/static/media/good-vibes-only-apartment.4cabde4e78206bb6c38c.jpg",
     "static/media/nаturе-араrtmеnt.jpg": "/static/media/nаturе-араrtmеnt.bde44aad6870cb953f16.jpg",
+    "static/media/ubuntu-bold.woff2": "/static/media/ubuntu-bold.6d67deb822219b40151c.woff2",
     "static/media/central-street-apartment.jpg": "/static/media/central-street-apartment.9759d071716e7388120c.jpg",
     "static/media/flora-apartment.jpg": "/static/media/flora-apartment.be483a945c29e81cdbe2.jpg",
+    "static/media/montserrat-bold.woff": "/static/media/montserrat-bold.b93cb310d928719a6bb6.woff",
+    "static/media/montserrat-semibold.woff": "/static/media/montserrat-semibold.69330052e666f6c0f0af.woff",
+    "static/media/montserrat-regular.woff": "/static/media/montserrat-regular.556bb05dff91b08a8423.woff",
+    "static/media/montserrat-black.woff": "/static/media/montserrat-black.f44e699eff90a4d2ff7a.woff",
     "static/media/marshmallow-studio.jpg": "/static/media/marshmallow-studio.5ab7e4819e561437ce68.jpg",
     "static/media/liner.jpg": "/static/media/liner.210fb682da3402be9dca.jpg",
     "static/media/green-point-apartment.jpg": "/static/media/green-point-apartment.f461b401eb7b39be2c1c.jpg",
     "static/media/happy-moments-apartment.jpg": "/static/media/happy-moments-apartment.81b5907a870c9a4cd9ec.jpg",
+    "static/media/montserrat-bold.woff2": "/static/media/montserrat-bold.b8c6bf231f0ce4cad3c7.woff2",
+    "static/media/montserrat-semibold.woff2": "/static/media/montserrat-semibold.54589f6cdd8d619e994c.woff2",
+    "static/media/montserrat-regular.woff2": "/static/media/montserrat-regular.812dd4640aaa4e4db7b8.woff2",
+    "static/media/nunito-semibold.woff": "/static/media/nunito-semibold.5712e449d9d7fd8a5542.woff",
+    "static/media/nunito-regular.woff": "/static/media/nunito-regular.d4e960d7d4a48a3b90ce.woff",
+    "static/media/montserrat-black.woff2": "/static/media/montserrat-black.d3520641ac856821a7b3.woff2",
+    "static/media/nunitosans-regular.woff": "/static/media/nunitosans-regular.a4f4d3a120bac0b55908.woff",
+    "static/media/nunito-semibold.woff2": "/static/media/nunito-semibold.8e6f7c5e688971fb4b85.woff2",
+    "static/media/nunito-regular.woff2": "/static/media/nunito-regular.16489621a9b23085cc59.woff2",
+    "static/media/nunitosans-regular.woff2": "/static/media/nunitosans-regular.8f783ba2bea71f7af2fb.woff2",
     "index.html": "/index.html",
-    "main.f6011fb6.css.map": "/static/css/main.f6011fb6.css.map",
-    "main.daae1c53.js.map": "/static/js/main.daae1c53.js.map"
+    "static/media/arrow-to-top.svg": "/static/media/arrow-to-top.399f497ca8ccf61bd740.svg",
+    "main.b5f7510f.css.map": "/static/css/main.b5f7510f.css.map",
+    "main.ee2559d3.js.map": "/static/js/main.ee2559d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6011fb6.css",
-    "static/js/main.daae1c53.js"
+    "static/css/main.b5f7510f.css",
+    "static/js/main.ee2559d3.js"
   ]
 }
