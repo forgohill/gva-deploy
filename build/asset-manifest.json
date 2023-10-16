@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5f7510f.css",
-    "main.js": "/static/js/main.ee2559d3.js",
+    "main.css": "/static/css/main.a086fff0.css",
+    "main.js": "/static/js/main.111e0a1f.js",
     "static/media/muza-аpаrtment.jpg": "/static/media/muza-аpаrtment.2214bda7607ddcf33982.jpg",
     "static/media/green-apartment-city-view.jpg": "/static/media/green-apartment-city-view.78846a8310a99264b382.jpg",
     "static/media/pink-drеаm-араrtmеnt.jpg": "/static/media/pink-drеаm-араrtmеnt.690755cf06bdc7e64437.jpg",
@@ -21,6 +21,7 @@
     "static/media/liner.jpg": "/static/media/liner.210fb682da3402be9dca.jpg",
     "static/media/green-point-apartment.jpg": "/static/media/green-point-apartment.f461b401eb7b39be2c1c.jpg",
     "static/media/happy-moments-apartment.jpg": "/static/media/happy-moments-apartment.81b5907a870c9a4cd9ec.jpg",
+    "static/media/about-us-main__image.jpg": "/static/media/about-us-main__image.586fb5cb326422e4d946.jpg",
     "static/media/montserrat-bold.woff2": "/static/media/montserrat-bold.b8c6bf231f0ce4cad3c7.woff2",
     "static/media/montserrat-semibold.woff2": "/static/media/montserrat-semibold.54589f6cdd8d619e994c.woff2",
     "static/media/montserrat-regular.woff2": "/static/media/montserrat-regular.812dd4640aaa4e4db7b8.woff2",
@@ -28,16 +29,21 @@
     "static/media/nunito-regular.woff": "/static/media/nunito-regular.d4e960d7d4a48a3b90ce.woff",
     "static/media/montserrat-black.woff2": "/static/media/montserrat-black.d3520641ac856821a7b3.woff2",
     "static/media/nunitosans-regular.woff": "/static/media/nunitosans-regular.a4f4d3a120bac0b55908.woff",
+    "static/media/presentation__background-image.jpg": "/static/media/presentation__background-image.4ba6116013d27d04734c.jpg",
     "static/media/nunito-semibold.woff2": "/static/media/nunito-semibold.8e6f7c5e688971fb4b85.woff2",
     "static/media/nunito-regular.woff2": "/static/media/nunito-regular.16489621a9b23085cc59.woff2",
     "static/media/nunitosans-regular.woff2": "/static/media/nunitosans-regular.8f783ba2bea71f7af2fb.woff2",
+    "static/media/about-us-main__pattern.svg": "/static/media/about-us-main__pattern.00b934cf67c886092cd9.svg",
+    "static/media/presentation__pattern.svg": "/static/media/presentation__pattern.3a9a7baca4e47cb8438e.svg",
     "index.html": "/index.html",
+    "static/media/presentation__kletka.svg": "/static/media/presentation__kletka.62a91014582448514e06.svg",
+    "static/media/btn-play.svg": "/static/media/btn-play.6c987ca4db611265416c.svg",
     "static/media/arrow-to-top.svg": "/static/media/arrow-to-top.399f497ca8ccf61bd740.svg",
-    "main.b5f7510f.css.map": "/static/css/main.b5f7510f.css.map",
-    "main.ee2559d3.js.map": "/static/js/main.ee2559d3.js.map"
+    "main.a086fff0.css.map": "/static/css/main.a086fff0.css.map",
+    "main.111e0a1f.js.map": "/static/js/main.111e0a1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5f7510f.css",
-    "static/js/main.ee2559d3.js"
+    "static/css/main.a086fff0.css",
+    "static/js/main.111e0a1f.js"
   ]
 }
