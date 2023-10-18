@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d0e9c58.css",
-    "main.js": "/static/js/main.e4f77f94.js",
+    "main.css": "/static/css/main.4133ad90.css",
+    "main.js": "/static/js/main.66a6b795.js",
     "static/media/muza-аpаrtment.jpg": "/static/media/muza-аpаrtment.2214bda7607ddcf33982.jpg",
     "static/media/advantage__background-image.jpeg": "/static/media/advantage__background-image.977ba3ad8db6277dfb72.jpeg",
     "static/media/green-apartment-city-view.jpg": "/static/media/green-apartment-city-view.78846a8310a99264b382.jpg",
@@ -45,13 +45,13 @@
     "static/media/presentation__kletka.svg": "/static/media/presentation__kletka.62a91014582448514e06.svg",
     "static/media/btn-play.svg": "/static/media/btn-play.6c987ca4db611265416c.svg",
     "static/media/arrow-to-top.svg": "/static/media/arrow-to-top.399f497ca8ccf61bd740.svg",
-    "static/media/background__arrow-left.svg": "/static/media/background__arrow-left.9fb22dbd54a6fb958d63.svg",
-    "static/media/background__arrow-right.svg": "/static/media/background__arrow-right.2d2a2c0a14bce9c0335d.svg",
-    "main.9d0e9c58.css.map": "/static/css/main.9d0e9c58.css.map",
-    "main.e4f77f94.js.map": "/static/js/main.e4f77f94.js.map"
+    "static/media/background-arrow-left.svg": "/static/media/background-arrow-left.9fb22dbd54a6fb958d63.svg",
+    "static/media/background-arrow-right.svg": "/static/media/background-arrow-right.2d2a2c0a14bce9c0335d.svg",
+    "main.4133ad90.css.map": "/static/css/main.4133ad90.css.map",
+    "main.66a6b795.js.map": "/static/js/main.66a6b795.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d0e9c58.css",
-    "static/js/main.e4f77f94.js"
+    "static/css/main.4133ad90.css",
+    "static/js/main.66a6b795.js"
   ]
 }
