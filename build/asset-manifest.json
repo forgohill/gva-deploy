@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5ede3cf.css",
+    "main.css": "/static/css/main.9d0e9c58.css",
     "main.js": "/static/js/main.e4f77f94.js",
     "static/media/muza-аpаrtment.jpg": "/static/media/muza-аpаrtment.2214bda7607ddcf33982.jpg",
     "static/media/advantage__background-image.jpeg": "/static/media/advantage__background-image.977ba3ad8db6277dfb72.jpeg",
@@ -47,11 +47,11 @@
     "static/media/arrow-to-top.svg": "/static/media/arrow-to-top.399f497ca8ccf61bd740.svg",
     "static/media/background__arrow-left.svg": "/static/media/background__arrow-left.9fb22dbd54a6fb958d63.svg",
     "static/media/background__arrow-right.svg": "/static/media/background__arrow-right.2d2a2c0a14bce9c0335d.svg",
-    "main.c5ede3cf.css.map": "/static/css/main.c5ede3cf.css.map",
+    "main.9d0e9c58.css.map": "/static/css/main.9d0e9c58.css.map",
     "main.e4f77f94.js.map": "/static/js/main.e4f77f94.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5ede3cf.css",
+    "static/css/main.9d0e9c58.css",
     "static/js/main.e4f77f94.js"
   ]
 }
