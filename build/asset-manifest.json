@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1875f757.css",
-    "main.js": "/static/js/main.a6a55c8c.js",
+    "main.css": "/static/css/main.4c121b6e.css",
+    "main.js": "/static/js/main.f662fc1c.js",
     "static/media/muza-аpаrtment.jpg": "/static/media/muza-аpаrtment.2214bda7607ddcf33982.jpg",
     "static/media/advantage__background-image.jpeg": "/static/media/advantage__background-image.977ba3ad8db6277dfb72.jpeg",
     "static/media/green-apartment-city-view.jpg": "/static/media/green-apartment-city-view.78846a8310a99264b382.jpg",
@@ -49,11 +49,11 @@
     "static/media/arrow-to-top.svg": "/static/media/arrow-to-top.399f497ca8ccf61bd740.svg",
     "static/media/background-arrow-left.svg": "/static/media/background-arrow-left.9fb22dbd54a6fb958d63.svg",
     "static/media/background-arrow-right.svg": "/static/media/background-arrow-right.2d2a2c0a14bce9c0335d.svg",
-    "main.1875f757.css.map": "/static/css/main.1875f757.css.map",
-    "main.a6a55c8c.js.map": "/static/js/main.a6a55c8c.js.map"
+    "main.4c121b6e.css.map": "/static/css/main.4c121b6e.css.map",
+    "main.f662fc1c.js.map": "/static/js/main.f662fc1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1875f757.css",
-    "static/js/main.a6a55c8c.js"
+    "static/css/main.4c121b6e.css",
+    "static/js/main.f662fc1c.js"
   ]
 }
