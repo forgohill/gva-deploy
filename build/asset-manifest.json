@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.221278ce.css",
-    "main.js": "/static/js/main.42aad0e9.js",
+    "main.js": "/static/js/main.02b74c69.js",
     "static/media/green-apartment-city-view-030.jpg": "/static/media/green-apartment-city-view-030.9d7cbd1217ff419d471a.jpg",
     "static/media/marshmallow-studio-027.jpg": "/static/media/marshmallow-studio-027.b089d00bdbf51d419c75.jpg",
     "static/media/flora-apartment-033.jpg": "/static/media/flora-apartment-033.a32373881602f5e535a8.jpg",
@@ -861,10 +861,10 @@
     "static/media/background-arrow-left.svg": "/static/media/background-arrow-left.9fb22dbd54a6fb958d63.svg",
     "static/media/background-arrow-right.svg": "/static/media/background-arrow-right.2d2a2c0a14bce9c0335d.svg",
     "main.221278ce.css.map": "/static/css/main.221278ce.css.map",
-    "main.42aad0e9.js.map": "/static/js/main.42aad0e9.js.map"
+    "main.02b74c69.js.map": "/static/js/main.02b74c69.js.map"
   },
   "entrypoints": [
     "static/css/main.221278ce.css",
-    "static/js/main.42aad0e9.js"
+    "static/js/main.02b74c69.js"
   ]
 }
