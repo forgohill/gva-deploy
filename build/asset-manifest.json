@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.221278ce.css",
-    "main.js": "/static/js/main.02b74c69.js",
+    "main.css": "/static/css/main.9f9da186.css",
+    "main.js": "/static/js/main.ab73d5d8.js",
     "static/media/green-apartment-city-view-030.jpg": "/static/media/green-apartment-city-view-030.9d7cbd1217ff419d471a.jpg",
     "static/media/marshmallow-studio-027.jpg": "/static/media/marshmallow-studio-027.b089d00bdbf51d419c75.jpg",
     "static/media/flora-apartment-033.jpg": "/static/media/flora-apartment-033.a32373881602f5e535a8.jpg",
@@ -483,10 +483,31 @@
     "static/media/nunitosans-regular.woff": "/static/media/nunitosans-regular.a4f4d3a120bac0b55908.woff",
     "static/media/nunito-semibold.woff2": "/static/media/nunito-semibold.8e6f7c5e688971fb4b85.woff2",
     "static/media/nunito-regular.woff2": "/static/media/nunito-regular.16489621a9b23085cc59.woff2",
+    "static/media/person5.jpg": "/static/media/person5.cb72e3408f8b8bdb21f6.jpg",
+    "static/media/person10.jpg": "/static/media/person10.16c0f1e6e46604109af6.jpg",
+    "static/media/person3.jpg": "/static/media/person3.16c68f8c827870d61ece.jpg",
     "static/media/nunitosans-regular.woff2": "/static/media/nunitosans-regular.8f783ba2bea71f7af2fb.woff2",
+    "static/media/person15.jpg": "/static/media/person15.2bec1b6c306b4250a477.jpg",
+    "static/media/person8.jpg": "/static/media/person8.b69713431ac1f352a48f.jpg",
+    "static/media/person6.jpg": "/static/media/person6.932c5af56387204d3f7f.jpg",
+    "static/media/person17.jpg": "/static/media/person17.6bb14eae2c489841da99.jpg",
+    "static/media/person22.jpg": "/static/media/person22.1c4cf805ab996829d550.jpg",
+    "static/media/person20.jpg": "/static/media/person20.46e714242b6737619687.jpg",
+    "static/media/person23.jpg": "/static/media/person23.bd51195df8c5332fa6e6.jpg",
+    "static/media/person9.jpg": "/static/media/person9.e444fc2367dfa65c2ca1.jpg",
+    "static/media/person11.jpg": "/static/media/person11.b7b18dadb38cf7971261.jpg",
+    "static/media/person21.jpg": "/static/media/person21.ccae3cd535129f2942b9.jpg",
+    "static/media/person14.jpg": "/static/media/person14.321eb29019c7f1ce8c4b.jpg",
+    "static/media/person19.jpg": "/static/media/person19.d269df9b1bb172dbb785.jpg",
+    "static/media/person1.jpg": "/static/media/person1.2a91072d2d92c167c7a4.jpg",
+    "static/media/person2.jpg": "/static/media/person2.37851e4283419b731a85.jpg",
+    "static/media/person7.jpg": "/static/media/person7.d2d890db1fbb2500c7fb.jpg",
     "static/media/callback__background-pattern.svg": "/static/media/callback__background-pattern.bfc4f53173c67ebe0f3c.svg",
     "static/media/about-us-main__pattern.svg": "/static/media/about-us-main__pattern.00b934cf67c886092cd9.svg",
     "static/media/advantage__pattern.svg": "/static/media/advantage__pattern.3b932ae4e275c8150f23.svg",
+    "static/media/person16.jpg": "/static/media/person16.110a658b80ab3768d87a.jpg",
+    "static/media/person12.jpg": "/static/media/person12.975e4fc6690cd84c78a8.jpg",
+    "static/media/person18.jpg": "/static/media/person18.da4f430090346f931407.jpg",
     "static/media/muza-аpаrtment-prew-035.jpg": "/static/media/muza-аpаrtment-prew-035.b2e67b0e40365b8dc5d7.jpg",
     "static/media/liner-prew-031.jpg": "/static/media/liner-prew-031.89b51469b32397ab0084.jpg",
     "static/media/presentation__pattern.svg": "/static/media/presentation__pattern.3a9a7baca4e47cb8438e.svg",
@@ -598,6 +619,7 @@
     "static/media/liner-prew-016.jpg": "/static/media/liner-prew-016.a0e27dbcf168f9a66a18.jpg",
     "static/media/liner-prew-015.jpg": "/static/media/liner-prew-015.8ccc5da5313bffcfeadc.jpg",
     "static/media/green-apartment-city-view-prew-026.jpg": "/static/media/green-apartment-city-view-prew-026.353afdfde3a3e35b8433.jpg",
+    "static/media/person4.jpg": "/static/media/person4.8ac86617ae68c71d1858.jpg",
     "static/media/marshmallow-studio-prew-004.jpg": "/static/media/marshmallow-studio-prew-004.bd494ce6f844db8c6002.jpg",
     "static/media/marshmallow-studio-prew-031.jpg": "/static/media/marshmallow-studio-prew-031.6ca85ab66a51d660864c.jpg",
     "static/media/good-vibes-only-apartment-prew-010.jpg": "/static/media/good-vibes-only-apartment-prew-010.b31b36aa2367b452becf.jpg",
@@ -699,6 +721,7 @@
     "static/media/happy-moments-apartment-prew-008.jpg": "/static/media/happy-moments-apartment-prew-008.40b02162118b038af04c.jpg",
     "static/media/sky-river-apartment-prew-009.jpg": "/static/media/sky-river-apartment-prew-009.afffa3d7c976c7fb056f.jpg",
     "static/media/green-point-apartment-prew-014.jpg": "/static/media/green-point-apartment-prew-014.7fa3c7b83f5be44c1a51.jpg",
+    "static/media/person13.jpg": "/static/media/person13.dedb23ef5a201b647e67.jpg",
     "static/media/liner-prew-027.jpg": "/static/media/liner-prew-027.23bad33da37039cf8c51.jpg",
     "static/media/good-vibes-only-apartment-prew-006.jpg": "/static/media/good-vibes-only-apartment-prew-006.5a9fd192fedf6c74507d.jpg",
     "static/media/green-point-apartment-prew-003.jpg": "/static/media/green-point-apartment-prew-003.7cd57de44b9110ae3a09.jpg",
@@ -860,11 +883,11 @@
     "static/media/arrow-to-top.svg": "/static/media/arrow-to-top.399f497ca8ccf61bd740.svg",
     "static/media/background-arrow-left.svg": "/static/media/background-arrow-left.9fb22dbd54a6fb958d63.svg",
     "static/media/background-arrow-right.svg": "/static/media/background-arrow-right.2d2a2c0a14bce9c0335d.svg",
-    "main.221278ce.css.map": "/static/css/main.221278ce.css.map",
-    "main.02b74c69.js.map": "/static/js/main.02b74c69.js.map"
+    "main.9f9da186.css.map": "/static/css/main.9f9da186.css.map",
+    "main.ab73d5d8.js.map": "/static/js/main.ab73d5d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.221278ce.css",
-    "static/js/main.02b74c69.js"
+    "static/css/main.9f9da186.css",
+    "static/js/main.ab73d5d8.js"
   ]
 }
