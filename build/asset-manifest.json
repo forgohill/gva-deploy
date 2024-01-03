@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.38f3e92f.css",
-    "main.js": "/static/js/main.004fffbc.js",
+    "main.css": "/static/css/main.5442f51d.css",
+    "main.js": "/static/js/main.1acd4c3e.js",
     "static/media/green-apartment-city-view-030.jpg": "/static/media/green-apartment-city-view-030.9d7cbd1217ff419d471a.jpg",
     "static/media/marshmallow-studio-027.jpg": "/static/media/marshmallow-studio-027.b089d00bdbf51d419c75.jpg",
     "static/media/flora-apartment-033.jpg": "/static/media/flora-apartment-033.a32373881602f5e535a8.jpg",
@@ -874,6 +874,7 @@
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/logo-small.svg": "/static/media/logo-small.4c7004e00a425d81105b.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/icon__telegram.svg": "/static/media/icon__telegram.a7fb83ae43f7a4cb8c6e.svg",
     "static/media/icon__vkontakte.svg": "/static/media/icon__vkontakte.5df4fbca92679ce5bdb8.svg",
@@ -883,11 +884,11 @@
     "static/media/arrow-to-top.svg": "/static/media/arrow-to-top.399f497ca8ccf61bd740.svg",
     "static/media/background-arrow-left.svg": "/static/media/background-arrow-left.9fb22dbd54a6fb958d63.svg",
     "static/media/background-arrow-right.svg": "/static/media/background-arrow-right.2d2a2c0a14bce9c0335d.svg",
-    "main.38f3e92f.css.map": "/static/css/main.38f3e92f.css.map",
-    "main.004fffbc.js.map": "/static/js/main.004fffbc.js.map"
+    "main.5442f51d.css.map": "/static/css/main.5442f51d.css.map",
+    "main.1acd4c3e.js.map": "/static/js/main.1acd4c3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.38f3e92f.css",
-    "static/js/main.004fffbc.js"
+    "static/css/main.5442f51d.css",
+    "static/js/main.1acd4c3e.js"
   ]
 }
